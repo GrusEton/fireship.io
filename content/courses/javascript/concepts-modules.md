@@ -27,7 +27,7 @@ Second, a different file uses this code by importing it.
 import cupcake from '../path/to/awesome-package.js';
 ```
 
-Pretty simple! But there more you should know.
+Pretty simple! But there's more you should know.
 
 ## Default Exports
 
